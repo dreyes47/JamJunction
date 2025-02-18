@@ -1,6 +1,8 @@
 # JamJunction
+'''
 JamJunction will add songs to a playlist that can be organized.
 Check if its a band or artist
+
 Playlist can be organized by the following:
   Name of song
   Name of artist or band
@@ -9,6 +11,9 @@ Playlist can be organized by the following:
   length of song
   Genre of song
 
-Jam junction should return a playlist of songs.
-Playlist length should be printed with the playlist.
-You can name the playlist?
+Jam Junction should return a playlist of songs.
+The playlist length should be printed with the playlist.
+The playlist can be named.
+Dictionary could be (Name of playlist: length of playlist)
+length = [hour, minute, second]
+'''
